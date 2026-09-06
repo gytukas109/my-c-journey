@@ -25,7 +25,6 @@ int main(){
 			std::cout << finalsum << '\n';
 			running = false;
 		}
-//no point in using namespace because it takes up more effort 	
 		else if (operators == "-"){
 			double finalsum = num1 - num2;
 			std::cout << finalsum << '\n';
