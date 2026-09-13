@@ -1,5 +1,4 @@
-# my-c-journey
-this is a full repository on my tracked progress through c++ as ive started to learn to as one my new languages in coding alongside python/html/css and now c++
-ive been programming for about 4 years now i kinda feel dumb that i didnt do this earlier but i am now this is going to a page where i track all my progress with c++
+# my-c++-journey
+welcome to my repository, i will be storing all my c++ projects in here as this seems like a good place to do so but mostly because i would like to show my skills with programing and how ive gotten better in the last two years. ive recently been looking into making this something i would like to pursue as a future so whilst i still have the chance to im going to try get ahead of the people my age and develope things that will teach more and more as i go on.
 
-my main reason for this is because i want to get a stronger foundation for programming and to be able to do cybersecurity although i understand that this might not be the ideal language i will be learning my ad making repositorys but for now feel free check out and use whatever you would like
+i will be referencing for any of my big projects to and linking adding in a research file where ye can see where i got all my data and information from as i will be making some big projects so i would highly appreciate a read into those files so ye understand my vision and ideas, and lastly before you continue on into the repository i would love to hear some feed back on all this data so if you can please feel free to give your opinions
